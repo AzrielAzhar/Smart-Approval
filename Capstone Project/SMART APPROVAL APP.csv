@@ -1,0 +1,12 @@
+﻿Jenis Permintaan,Nama Pemohon,Email,Posisi Jabatan,Alasan,Tanggal Pengajuan,Tanggal Berakhir,Nama Barang,Harga Barang,Jumlah Barang,Total Harga,Deskripsi,Tempat Penjualan,Perihal Anggaran,Total Anggaran,Approval Status,Attachments
+"Permintaan Cuti","Moreno","Moreno Asykar Rachman","Divisi Kreatif dan Pemasaran","Liburan Bareng Keluarga","14/06/2024","16/06/2024",,,,,,,,,"Approved","0"
+"Permintaan Anggaran","Azriel","MUHAMMAD AZRIEL AZHAR TSARY","Divisi Sumber Daya",,"14/06/2024",,,,,,,,"Agenda Kampanye Perusahaan","10.000.000","Approved","0"
+"Permintaan Cuti","Andi Naufal","Andi Naufal Nurfadhil","Divisi Sumber Daya","Liburan Keluarga","05/01/2024","15/01/2024",,,,,,,,,"Approved","0"
+"Permintaan Cuti","Agi Prasetyo","MUHAMMAD AGI PRASETYO","Divisi Keuangan","Acara Keluarga","25/10/2024","01/11/2024",,,,,,,,,"Approved","0"
+"Permintaan Cuti","Muhammad Raufal","MUHAMMAD RAUFAL",,"Cuti Lebaran Idul Adha","17/06/2024","19/06/2024",,,,,,,,,"Pending","0"
+"Permintaan Cuti","Raufal","MUHAMMAD RAUFAL","Divisi Kreatif dan Pemasaran","Lebaran Idul Adha","17/06/2024","18/06/2024",,,,,,,,,"Approved","0"
+"Permintaan Cuti","Azriel","MUHAMMAD AZRIEL AZHAR TSARY","Divisi Operasional","Izin Lebaran Idul Adha ","16/06/2024","19/06/2024",,,,,,,,,"Approved","0"
+"Permintaan Pembelian","Muhammad Raufal","MUHAMMAD RAUFAL","Divisi Operasional","Stok sudah habis","15/06/2024",,"Laptop Asus Vivobook","10.000.000","1","0","Laptop Asus 14 X, Ram 16 GB","Toko Serba Ada",,,"Rejected","0"
+"Permintaan Cuti","Muhammad Raufal","MUHAMMAD RAUFAL","Divisi Kreatif dan Pemasaran","Cuti Lebaran Idul Adha","16/06/2024","25/06/2024",,,,,,,,,"Approved","0"
+"Permintaan Pembelian","Azriel","MUHAMMAD AZRIEL AZHAR TSARY","Divisi Operasional","Stok barang habis","14/06/2024",,"Peralatan Elektronik","12.000.000","12","0","Pembelian Elektronik di kantor","PT Indonesia Produksi Elektronik",,,"Approved","0"
+"Permintaan Anggaran","Azriel","MUHAMMAD AZRIEL AZHAR TSARY","Divisi Operasional",,"14/06/2024",,,,,,,,"Keperluan Dana untuk Kampanye Promosi Produk","30.000.000","Rejected","0"
